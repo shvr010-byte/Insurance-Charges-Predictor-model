@@ -5,4 +5,6 @@ scikit-learn
 joblib
 matplotlib
 seaborn
+pillow==10.3.0
+python-3.12.3
 
